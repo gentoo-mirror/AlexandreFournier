@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install postinst
+DEPEND=virtual/udev
+DESCRIPTION=AirSpy Firmware
+EAPI=5
+HOMEPAGE=http://www.airspy.com
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2+
+RDEPEND=virtual/udev
+SLOT=0
+SRC_URI=https://github.com/airspy/firmware/releases/download/v1.0.0-rc10/airspy_fw_v1.0.0-rc10.zip -> airspy-firmware-1.0.0_rc10.zip
+_eclass_exported_funcs=pkg_postinst:- src_compile:- src_install:-
+_md5_=1b340fd9b28bbe1f161e4a6baede3d42

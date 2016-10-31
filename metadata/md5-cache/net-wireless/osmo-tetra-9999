@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=net-wireless/gnuradio[wxwidgets] net-libs/libosmocore net-wireless/gr-osmosdr !net-wireless/osmo-tetra-sq5bpf dev-vcs/git
+DESCRIPTION=Osmocom software defined radio TETRA receiver
+EAPI=5
+HOMEPAGE=http://tetra.osmocom.org/
+LICENSE=GPL
+RDEPEND=net-wireless/gnuradio[wxwidgets] net-libs/libosmocore net-wireless/gr-osmosdr !net-wireless/osmo-tetra-sq5bpf
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:- src_install:-
+_eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4
+_md5_=bf8eeebafa3234fec7539a3d00c6736a
