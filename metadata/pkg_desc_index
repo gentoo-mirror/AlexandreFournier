@@ -16,7 +16,6 @@ net-wireless/bladerf 2016.01_rc1: Libraries for supporing the BladeRF hardware f
 net-wireless/bladerf-firmware 1.9.0: bladeRF FX3 firmware images
 net-wireless/bladerf-fpga 0.5.0: bladeRF FPGA bitstreams
 net-wireless/dsd 9999: Digital Speech Decoder
-net-wireless/gqrx 9999: Software defined radio receiver powered by GNU Radio and Qt5
 net-wireless/gr-fcdproplus 9999: GNU radio Funcube Dongle Pro+ source
 net-wireless/gr-osmosdr 9999: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
 net-wireless/gr-pipe 9999: Make GNU Radio blocks with standard pipes
