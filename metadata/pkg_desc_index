@@ -22,4 +22,5 @@ net-wireless/qspectrumanalyzer 1.4.0: Spectrum analyzer for RTL-SDR (GUI for rtl
 net-wireless/rtl_433 9999: Decode several 433.92MHz sensors using librtlsdr
 net-wireless/rtl_power_fftw 9999: Power spectrum for RTLSDR dongles
 sci-mathematics/z3 4.4.1: An efficient theorem prover
+sys-firmware/amdgpu-ucode 20161121: Microcode for C.Islands/V.Islands/A.Islands Radeon GPUs and APUs
 sys-fs/squashfs-tools 4.3: Tool for creating compressed filesystem type squashfs
