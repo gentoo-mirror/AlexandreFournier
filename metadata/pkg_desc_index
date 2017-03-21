@@ -16,6 +16,7 @@ net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/gr-fcdproplus 9999: GNU radio Funcube Dongle Pro+ source
 net-wireless/gr-osmosdr 9999: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
 net-wireless/gr-pipe 9999: Make GNU Radio blocks with standard pipes
+net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
 net-wireless/ook-decoder 9999: On-Off Keying radio decoder
 net-wireless/osmo-tetra 9999: Osmocom software defined radio TETRA receiver
 net-wireless/qspectrumanalyzer 1.4.0: Spectrum analyzer for RTL-SDR (GUI for rtl_power based on PyQtGraph)
