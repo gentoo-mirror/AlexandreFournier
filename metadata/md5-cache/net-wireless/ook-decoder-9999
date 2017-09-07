@@ -5,6 +5,5 @@ EAPI=5
 HOMEPAGE=https://github.com/jimstudt/ook-decoder
 LICENSE=MIT
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_configure:- src_compile:- src_install:-
 _eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=ae1dcab08ad6608e912a254bcc8a9c1b
