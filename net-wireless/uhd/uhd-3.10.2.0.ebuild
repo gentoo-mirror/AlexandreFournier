@@ -33,7 +33,7 @@ DEPEND="${RDEPEND}
 	dev-python/cheetah
 	app-arch/unzip"
 
-S="${WORKDIR}"/uhd-release_00$(get_version_component_range 1)_00$(get_version_component_range 2)_00$(get_version_component_range 3)/host
+S="${WORKDIR}"/uhd-release_00$(get_version_component_range 1)_0$(get_version_component_range 2)_00$(get_version_component_range 3)_00$(get_version_component_range 4)/host
 
 src_prepare() {
 	cmake-utils_src_prepare
