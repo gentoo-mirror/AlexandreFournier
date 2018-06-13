@@ -1,9 +1,9 @@
 DEFINED_PHASES=compile configure install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=On-Off Keying radio decoder
 EAPI=5
 HOMEPAGE=https://github.com/jimstudt/ook-decoder
 LICENSE=MIT
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=ae1dcab08ad6608e912a254bcc8a9c1b
