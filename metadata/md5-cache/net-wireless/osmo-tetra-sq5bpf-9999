@@ -6,5 +6,5 @@ HOMEPAGE=http://github.com/sq5bpf/osmo-tetra-sq5bpf
 LICENSE=GPL
 RDEPEND=net-wireless/gnuradio[wxwidgets] net-libs/libosmocore net-wireless/gr-osmosdr !net-wireless/osmo-tetra
 SLOT=0
-_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
+_eclasses_=git-2	249c1a0962573f4ce2c28f0d5b6b35d4
 _md5_=5311395a04a7bc53c82675ac404186fd
