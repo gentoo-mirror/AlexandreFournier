@@ -1,4 +1,3 @@
-app-emulation/virtualbox-modules 4.3.38: Kernel Modules for Virtualbox
 dev-libs/libevent 2.0.22: A library to execute a function when a specific event occurs on a file descriptor
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
 net-wireless/airspy-host 1.0.7 1.0.8 1.0.9: Usemode driver and associated tools for airspy
