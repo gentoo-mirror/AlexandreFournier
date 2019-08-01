@@ -2,4 +2,6 @@ app-vim/bitbake-syntax 20180620: vim plugin: set of tools for editing Yocto bitb
 dev-libs/libevent 2.0.22: A library to execute a function when a specific event occurs on a file descriptor
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
 net-wireless/airspy-host 1.0.7 1.0.8 1.0.9: Usemode driver and associated tools for airspy
+net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
+net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 sys-fs/squashfs-tools 4.3: Tool for creating compressed filesystem type squashfs
