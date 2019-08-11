@@ -1,7 +1,58 @@
+app-forensics/stegdetect 0.7: A Steganography detector for JPEG
+app-forensics/volatility 2.5 9999: Framework for analyzing volatile memory
+app-misc/ROPgadget 5.4: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-vim/bitbake-syntax 20180620: vim plugin: set of tools for editing Yocto bitbake-based recipes
 dev-libs/libevent 2.0.22: A library to execute a function when a specific event occurs on a file descriptor
+dev-python/asterisk-ami 0.1.5: A simple Python AMI client
+dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
+dev-python/pcapy 0.10.8 0.11.1: Python pcap extension
+dev-python/pysmb 1.1.22: Pysmb is an experimental SMB/CIFS library written in Python to support file sharing between Windows and Linux machines
+dev-python/python-application 2.7.0: Basic building blocks for python applications
+dev-python/python-cjson 1.2.1: A collection of modules that are useful when building python applications
+dev-python/python-eventlib 0.2.4: SIP SIMPLE client SDK is a Software Development Kit
+dev-python/python-gnutls 3.1.2: High level object oriented wrapper around libgnutls
+dev-python/python-msrplib 0.19.2: SIP SIMPLE client SDK is a Software Development Kit
+dev-python/python-otr 1.2.1: Off-The-Record Messaging (OTR) protocol implementation for python
+dev-python/python-sipsimple 3.4.2: SIP SIMPLE client SDK is a Software Development Kit
+dev-python/python-xcaplib 1.2.1: SIP SIMPLE client SDK is a Software Development Kit
+dev-python/shodan 1.13.0: Python library and command-line utility for Shodan (https://developer.shodan.io)
+media-libs/etsi-amr 1.3.1: TETRA speech codec (ETSI EN 300 395-2)
+media-libs/mbelib 9999: P25 Phase 1 and ProVoice vocoder
+media-libs/rem 0.6.0: Librem is a portable and generic library for real-time audio and video processing.
+net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
+net-libs/libsdrplay 2.10.2 2.11.1: SDRplay binary library (RSP1/RSP2)
+net-misc/anydesk 2.9.5: All-In-One Solution for Remote Access and Support over the Internet
+net-misc/asterisk 13.9.1: Asterisk: A Modular Open Source PBX System
+net-misc/sipp 3.5.1: SIPp is a tool to stress SIP server/proxy implementations.
+net-voip/baresip 0.6.3: Baresip is a portable and modular SIP User-Agent with audio and video support.
+net-voip/blink 3.2.0: A state of the art, easy to use SIP client
+net-voip/re 0.6.0: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
+net-wireless/acarsdec 3.2: An open source Acars decoder with rtl_sdr frontend
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
-net-wireless/airspy-host 1.0.7 1.0.8 1.0.9: Usemode driver and associated tools for airspy
+net-wireless/airspy-host 1.0.7 1.0.8 1.0.9 9999: Usemode driver and associated tools for airspy
 net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
+net-wireless/dsd 9999: Digital Speech Decoder
+net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
+net-wireless/gr-fcdproplus 9999: GNU radio Funcube Dongle Pro+ source
+net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
+net-wireless/gr-iridium 9999: GNURadio Iridium Out Of Tree Module
+net-wireless/gr-osmosdr 9999: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
+net-wireless/gr-pipe 9999: Make GNU Radio blocks with standard pipes
+net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
+net-wireless/hcxtools 5.1.6: Portable solution for capturing wlan traffic and conversion to hashcat formats
+net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
+net-wireless/ook-decoder 9999: On-Off Keying radio decoder
+net-wireless/osmo-tetra 9999: Osmocom software defined radio TETRA receiver
+net-wireless/osmo-tetra-sq5bpf 9999: Osmocom software defined radio TETRA receiver
+net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
+net-wireless/qspectrumanalyzer 1.4.0: Spectrum analyzer for RTL-SDR (GUI for rtl_power based on PyQtGraph)
+net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the correct WPS PIN.
+net-wireless/rtl_433 9999: Decode several 433.92MHz sensors using librtlsdr
+net-wireless/rtl_power_fftw 9999: Power spectrum for RTLSDR dongles
+net-wireless/telive 9999: Tetra live monitor
+net-wireless/uhd 3.10.2.0 3.10.3.0: Universal Software Radio Peripheral (USRP) Hardware Driver
+net-wireless/wifite 2.2.5-r2: An automated wireless attack tool
+sci-mathematics/z3 4.4.1: An efficient theorem prover
+sys-firmware/amdgpu-ucode 20161121: Microcode for C.Islands/V.Islands/A.Islands Radeon GPUs and APUs
 sys-fs/squashfs-tools 4.3: Tool for creating compressed filesystem type squashfs
