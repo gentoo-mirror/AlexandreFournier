@@ -10,6 +10,7 @@ dev-python/pysmb 1.1.22: Pysmb is an experimental SMB/CIFS library written in Py
 dev-python/python-application 2.7.0: Basic building blocks for python applications
 dev-python/python-cjson 1.2.1: A collection of modules that are useful when building python applications
 dev-python/python-eventlib 0.2.4: SIP SIMPLE client SDK is a Software Development Kit
+dev-python/python-glfw 1.8.3: Python bindings for the GLFW library
 dev-python/python-gnutls 3.1.2: High level object oriented wrapper around libgnutls
 dev-python/python-msrplib 0.19.2: SIP SIMPLE client SDK is a Software Development Kit
 dev-python/python-otr 1.2.1: Off-The-Record Messaging (OTR) protocol implementation for python
