@@ -22,7 +22,6 @@ media-libs/libg7221 0.2.0: Packaged version of G.722.1 codec adapted from Polyco
 media-libs/mbelib 9999: P25 Phase 1 and ProVoice vocoder
 media-libs/rem 0.6.0: Librem is a portable and generic library for real-time audio and video processing.
 net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
-net-libs/libsdrplay 2.10.2 2.11.1: SDRplay binary library (RSP1/RSP2)
 net-misc/asterisk 13.9.1: Asterisk: A Modular Open Source PBX System
 net-misc/sipp 3.5.1: SIPp is a tool to stress SIP server/proxy implementations.
 net-voip/baresip 0.6.4: Baresip is a portable and modular SIP User-Agent with audio and video support.
