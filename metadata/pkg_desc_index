@@ -34,7 +34,7 @@ net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attac
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
-net-wireless/gr-fcdproplus 9999: GNU radio Funcube Dongle Pro+ source
+net-wireless/gr-fcdproplus 3.7.12: GNU radio Funcube Dongle Pro+ source
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/gr-iridium 9999: GNURadio Iridium Out Of Tree Module
 net-wireless/gr-osmosdr 9999: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
