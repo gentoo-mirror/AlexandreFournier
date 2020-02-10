@@ -38,20 +38,15 @@ net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
 net-wireless/gr-fcdproplus 3.7.12: GNU radio Funcube Dongle Pro+ source
 net-wireless/gr-gsm 9999: Set of tools for receiving information transmitted by GSM equipment/devices
-net-wireless/gr-iridium 9999: GNURadio Iridium Out Of Tree Module
 net-wireless/gr-osmosdr 9999: GNU Radio source block for OsmoSDR and rtlsdr and hackrf
-net-wireless/gr-pipe 9999: Make GNU Radio blocks with standard pipes
 net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
 net-wireless/hcxtools 5.1.6: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
 net-wireless/ook-decoder 9999: On-Off Keying radio decoder
-net-wireless/osmo-tetra 9999: Osmocom software defined radio TETRA receiver
-net-wireless/osmo-tetra-sq5bpf 9999: Osmocom software defined radio TETRA receiver
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the correct WPS PIN.
 net-wireless/rtl_433 9999: Decode several 433.92MHz sensors using librtlsdr
 net-wireless/rtl_power_fftw 9999: Power spectrum for RTLSDR dongles
-net-wireless/telive 9999: Tetra live monitor
 net-wireless/uhd 3.10.2.0 3.10.3.0: Universal Software Radio Peripheral (USRP) Hardware Driver
 net-wireless/wifite 2.2.5-r2: An automated wireless attack tool
 sci-mathematics/z3 4.4.1: An efficient theorem prover
