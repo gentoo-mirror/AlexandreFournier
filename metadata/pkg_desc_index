@@ -32,6 +32,7 @@ net-voip/blink 3.2.0: A state of the art, easy to use SIP client
 net-voip/re 0.6.0: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-wireless/acarsdec 3.4: An open source Acars decoder with rtl_sdr frontend
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
+net-wireless/bluez 5.54: Bluetooth Tools and System Daemons for Linux
 net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/dsd 9999: Digital Speech Decoder
