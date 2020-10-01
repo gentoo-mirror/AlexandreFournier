@@ -55,7 +55,6 @@ net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the
 net-wireless/rtl_433 9999: Decode several 433.92MHz sensors using librtlsdr
 net-wireless/rtl_power_fftw 9999: Power spectrum for RTLSDR dongles
 net-wireless/sdrangel 5.7.11: SDR Rx/Tx software
-net-wireless/uhd 3.15.0.0: Universal Software Radio Peripheral (USRP) Hardware Driver
 net-wireless/wifite 2.2.5-r2: An automated wireless attack tool
 sci-mathematics/z3 4.4.1: An efficient theorem prover
 sys-firmware/amdgpu-ucode 20161121: Microcode for C.Islands/V.Islands/A.Islands Radeon GPUs and APUs
