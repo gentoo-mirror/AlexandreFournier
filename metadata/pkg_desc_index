@@ -56,6 +56,7 @@ net-wireless/rtl_433 9999: Decode several 433.92MHz sensors using librtlsdr
 net-wireless/rtl_power_fftw 9999: Power spectrum for RTLSDR dongles
 net-wireless/sdrangel 5.7.11: SDR Rx/Tx software
 net-wireless/wifite 2.2.5-r2: An automated wireless attack tool
+sci-libs/volk 9999: vector optimized library of kernels
 sci-mathematics/z3 4.4.1: An efficient theorem prover
 sys-firmware/amdgpu-ucode 20161121: Microcode for C.Islands/V.Islands/A.Islands Radeon GPUs and APUs
 sys-fs/squashfs-tools 4.3: Tool for creating compressed filesystem type squashfs
