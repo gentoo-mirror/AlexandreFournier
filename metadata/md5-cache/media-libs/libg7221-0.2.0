@@ -6,5 +6,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=SIREN7/SIREN14/G.719 LICENSE AGREEMENT
 SLOT=0
 SRC_URI=http://files.freeswitch.org/downloads/libs/g722_1-0.2.0.tar.gz
-_eclasses_=autotools	f491ec40ca051c35e20da7b670e8c14f	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
+_eclasses_=autotools	b8cf7d8850baf5b731738e6d4f00937a	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	605c126bed8d87e4378d5ff1645330cb
 _md5_=a389b25a6c45f7d2800863bfbc8562b6
