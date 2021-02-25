@@ -6,6 +6,7 @@ dev-libs/libevent 2.0.22: A library to execute a function when a specific event 
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/huawei-lte-api 1.4.3: API For huawei LAN/WAN LTE Modems
+dev-python/pcapy 0.11.4: Python pcap extension
 dev-python/pyvmomi 7.0.1: VMware vSphere API Python Bindings
 dev-python/shodan 1.13.0: Python library and command-line utility for Shodan (https://developer.shodan.io)
 dev-python/ssdp 1.0.1: Python asyncio library for Simple Service Discovery Protocol (SSDP)
