@@ -2,6 +2,7 @@ DEFINED_PHASES=install
 DESCRIPTION=Librem is a portable and generic library for real-time audio and video processing.
 EAPI=7
 HOMEPAGE=http://creytiv.com/rem.html
+INHERIT=multilib
 KEYWORDS=~x86 amd64
 LICENSE=BSD
 SLOT=0

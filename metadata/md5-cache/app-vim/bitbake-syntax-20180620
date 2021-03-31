@@ -3,6 +3,7 @@ DEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
 DESCRIPTION=vim plugin: set of tools for editing Yocto bitbake-based recipes
 EAPI=6
 HOMEPAGE=https://github.com/kergoth/vim-bitbake
+INHERIT=vim-plugin
 KEYWORDS=amd64 x86
 LICENSE=MIT
 RDEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
