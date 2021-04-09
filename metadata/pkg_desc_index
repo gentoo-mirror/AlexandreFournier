@@ -1,15 +1,12 @@
 app-arch/jefferson 9999: JFFS2 filesystem extraction tool
 app-forensics/stegdetect 0.7: A Steganography detector for JPEG
 app-forensics/volatility3 1.0.1: Framework for analyzing volatile memory
-app-misc/ROPgadget 6.2: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-vim/bitbake-syntax 20180620: vim plugin: set of tools for editing Yocto bitbake-based recipes
 dev-libs/cm256cc 1.0.5: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/libevent 2.0.22: A library to execute a function when a specific event occurs on a file descriptor
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
-dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/cstruct 1.8: C-style structs for Python
 dev-python/filebytes 0.10.2: Library to read and edit ELF, PE, MachO, OAT files
-dev-python/huawei-lte-api 1.4.3: API For huawei LAN/WAN LTE Modems
 dev-python/pcapy 0.11.4: Python pcap extension
 dev-python/pysmb 1.2.6: Experimental SMB/CIFS library
 dev-python/python-glfw 2.0.0: Python bindings for the GLFW library
@@ -40,7 +37,6 @@ net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.8.6: Digital Speech Decoder (DSD) rewritten as a C++ library
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
 net-wireless/gnuradio 3.8.0.0 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
-net-wireless/gr-gsm 0.42.2 9999: Set of tools for receiving information transmitted by GSM equipment/devices
 net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
 net-wireless/hcxtools 5.1.6: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
