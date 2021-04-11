@@ -22,7 +22,6 @@ media-libs/etsi-amr 1.3.1: TETRA speech codec (ETSI EN 300 395-2)
 media-libs/libg7221 0.2.0: Packaged version of G.722.1 codec adapted from Polycom reference sources
 media-libs/mbelib 9999: P25 Phase 1 and ProVoice vocoder
 media-libs/rem 0.6.0: Librem is a portable and generic library for real-time audio and video processing.
-net-analyzer/rpcapd 4.1.2: Remote packet capture daemon
 net-libs/libosmocore 1.3.1: Utility functions for OsmocomBB, OpenBSC and related projects
 net-misc/asterisk 13.9.1: Asterisk: A Modular Open Source PBX System
 net-misc/sipp 3.5.1: SIPp is a tool to stress SIP server/proxy implementations.
