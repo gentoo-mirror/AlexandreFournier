@@ -15,8 +15,8 @@ dev-python/pysmb 1.2.6: Experimental SMB/CIFS library
 dev-python/python-glfw 2.0.0: Python bindings for the GLFW library
 dev-python/python-ovh 0.5.0: Lightweight wrapper around OVH's APIs
 dev-python/pyvmomi 7.0.1: VMware vSphere API Python Bindings
+dev-python/shodan 1.25.0: Python library and command-line utility for Shodan (https://developer.shodan.io)
 dev-python/ssdp 1.0.1: Python asyncio library for Simple Service Discovery Protocol (SSDP)
-dev-util/packer 1.6.1: A tool to create identical machine images for multiple platforms
 games-action/multimc5 0.6.11: An advanced Qt5-based open-source launcher for Minecraft
 games-emulation/duckstation 9999: PlayStation 1, aka. PSX Emulator
 media-libs/codec2 0.9.2: Low bit rate speech codec
