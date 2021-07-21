@@ -9,5 +9,5 @@ LICENSE=MIT
 RDEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
 SLOT=0
 SRC_URI=https://github.com/kergoth/vim-bitbake/archive/4532d107bb14ab86f235ad534dd2bd2d4806d1b1.tar.gz -> bitbake-syntax-20180620.tar.gz
-_eclasses_=vim-doc	e063cddf18e5d2f2cfb21388252579ec	vim-plugin	0dc43a0d19e9cf28116eff88ffd07748
+_eclasses_=vim-doc	e063cddf18e5d2f2cfb21388252579ec	vim-plugin	93be71a1efbbf62981fcd40ee0db6e3f
 _md5_=0ce133355981873a386013798126e04f
