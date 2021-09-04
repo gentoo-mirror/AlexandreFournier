@@ -9,5 +9,5 @@ LICENSE=radeon-ucode
 RDEPEND=legacy? ( !sys-firmware/radeon-ucode ) !>sys-kernel/linux-firmware-20150812[-savedconfig]
 SLOT=0
 SRC_URI=mirror://gentoo/linux-firmware-20170113.tar.xz
-_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24	linux-info	c884c7720f3fea70f8326b23b5581abe
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	4b66d835ec72e021e359bb81eacfe988	eapi7-ver	1a0a60ad07c8b32d2faba2d085dc0f24	linux-info	e0906e20a7f2c13fa9af8a03dc738011
 _md5_=0ce1931f9f2e718c40e325a903dc8816
