@@ -16,6 +16,7 @@ dev-python/pcapy 0.11.4: Python pcap extension
 dev-python/pysmb 1.2.6: Experimental SMB/CIFS library
 dev-python/python-glfw 2.0.0: Python bindings for the GLFW library
 dev-python/python-ovh 0.5.0: Lightweight wrapper around OVH's APIs
+dev-python/pytlv 0.71: TLV data parser, especially useful for EMV tags parsing
 dev-python/pyvmomi 7.0.1: VMware vSphere API Python Bindings
 dev-python/shodan 1.25.0: Python library and command-line utility for Shodan (https://developer.shodan.io)
 dev-python/ssdp 1.0.1: Python asyncio library for Simple Service Discovery Protocol (SSDP)
