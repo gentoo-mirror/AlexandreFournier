@@ -42,7 +42,6 @@ net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
 net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.8.6: Digital Speech Decoder (DSD) rewritten as a C++ library
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
-net-wireless/gnuradio 3.8.0.0 3.8.1.0_rc1: Toolkit that provides signal processing blocks to implement software radios
 net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
 net-wireless/hcxtools 5.1.6: Portable solution for capturing wlan traffic and conversion to hashcat formats
 net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
