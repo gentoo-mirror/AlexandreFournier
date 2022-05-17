@@ -7,5 +7,5 @@ KEYWORDS=~x86 amd64
 LICENSE=BSD
 SLOT=0
 SRC_URI=https://github.com/baresip/rem/archive/v0.6.0.tar.gz -> rem-0.6.0.tar.gz
-_eclasses_=multilib	4a33c9008e5ee30cb8840a3fdc24df2b	toolchain-funcs	fd9cde67030b26e479eeadaced488253
+_eclasses_=multilib	4fbbbc98f236f1b43acd99476bc3cd85	toolchain-funcs	fd9cde67030b26e479eeadaced488253
 _md5_=cf55d6e7abbfbe10272bb5b8f13d0d0f
