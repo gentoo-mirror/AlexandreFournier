@@ -28,11 +28,14 @@ media-libs/libg7221 0.2.0: Packaged version of G.722.1 codec adapted from Polyco
 media-libs/rem 0.6.0: Librem is a portable and generic library for real-time audio and video processing.
 net-libs/libosmocore 1.3.1: Utility functions for OsmocomBB, OpenBSC and related projects
 net-misc/asterisk 13.9.1: Asterisk: A Modular Open Source PBX System
+net-misc/sipp 3.6.1: SIPp is a tool to stress SIP server/proxy implementations.
 net-voip/baresip 1.0.0: Baresip is a portable and modular SIP User-Agent with audio and video support.
+net-voip/re 1.1.0: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-wireless/acarsdec 3.4: An open source Acars decoder with rtl_sdr frontend
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
 net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
+net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.8.6: Digital Speech Decoder (DSD) rewritten as a C++ library
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
 net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
