@@ -2,6 +2,8 @@ app-arch/jefferson 9999: JFFS2 filesystem extraction tool
 app-forensics/volatility3 1.0.1: Framework for analyzing volatile memory
 app-misc/ROPgadget 6.5: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-vim/bitbake-syntax 20180620: vim plugin: set of tools for editing Yocto bitbake-based recipes
+dev-libs/cm256cc 1.0.5: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
+dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-python/bidict 0.21.4: The bidirectional mapping library for Python.
 dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/cstruct 1.8: C-style structs for Python
@@ -31,6 +33,8 @@ net-wireless/acarsdec 3.4: An open source Acars decoder with rtl_sdr frontend
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
 net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/cowpatty 4.8-r1: WLAN tools for bruteforcing 802.11 WPA/WPA2 keys
+net-wireless/dsd 9999: Digital Speech Decoder
+net-wireless/dsdcc 1.8.6: Digital Speech Decoder (DSD) rewritten as a C++ library
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
 net-wireless/hcxdumptool 5.1.7: Small tool to capture packets from wlan devices
 net-wireless/hcxtools 5.1.6: Portable solution for capturing wlan traffic and conversion to hashcat formats
@@ -38,3 +42,4 @@ net-wireless/mfcuk 0.3.8: MiFare Classic Universal toolKit (MFCUK)
 net-wireless/ook-decoder 9999: On-Off Keying radio decoder
 net-wireless/pixiewps 1.4.2: Bruteforce offline the WPS pin exploiting the low or non-existing entropy
 net-wireless/reaver-wps-fork-t6x 1.6.5-r1: Utilise Pixie Dust Attack to find the correct WPS PIN.
+net-wireless/sdrangel 5.7.11: SDR Rx/Tx software
