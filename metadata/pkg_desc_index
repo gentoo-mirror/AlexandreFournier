@@ -7,6 +7,7 @@ dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-python/bidict 0.21.4: The bidirectional mapping library for Python.
 dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/cstruct 1.8: C-style structs for Python
+dev-python/diagrams 0.21.1: Diagram as Code
 dev-python/filebytes 0.10.2: Library to read and edit ELF, PE, MachO, OAT files
 dev-python/gsm0338 1.0.0: GSM 03.38 codec
 dev-python/huawei-lte-api 1.4.3: API For huawei LAN/WAN LTE Modems
