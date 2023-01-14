@@ -1,11 +1,9 @@
 app-arch/jefferson 9999: JFFS2 filesystem extraction tool
 app-forensics/volatility3 1.0.1: Framework for analyzing volatile memory
-app-misc/ROPgadget 6.5: Tool to search for gadgets in binaries to facilitate your ROP exploitation
 app-vim/bitbake-syntax 20180620: vim plugin: set of tools for editing Yocto bitbake-based recipes
 dev-libs/cm256cc 1.0.5: Fast GF(256) Cauchy MDS Block Erasure Codec in C++
 dev-libs/serialDV 1.1.4: C++ library to encode/decode audio with AMBE3000
 dev-python/bidict 0.21.4: The bidirectional mapping library for Python.
-dev-python/capstone-python 3.0.4: A lightweight multi-platform, multi-architecture disassembly framework
 dev-python/cstruct 1.8: C-style structs for Python
 dev-python/diagrams 0.21.1: Diagram as Code
 dev-python/filebytes 0.10.2: Library to read and edit ELF, PE, MachO, OAT files
@@ -17,7 +15,6 @@ dev-python/pysmb 1.2.6: Experimental SMB/CIFS library
 dev-python/python-glfw 2.0.0: Python bindings for the GLFW library
 dev-python/python-ovh 0.5.0: Lightweight wrapper around OVH's APIs
 dev-python/pytlv 0.71: TLV data parser, especially useful for EMV tags parsing
-dev-python/pyvmomi 7.0.1: VMware vSphere API Python Bindings
 dev-python/shodan 1.25.0: Python library and command-line utility for Shodan (https://developer.shodan.io)
 dev-python/ssdp 1.0.1: Python asyncio library for Simple Service Discovery Protocol (SSDP)
 dev-util/apktool 2.6.0: A tool for reengineering 3rd party, closed, binary Android apps
