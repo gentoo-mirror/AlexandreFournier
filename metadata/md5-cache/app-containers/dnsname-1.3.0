@@ -1,0 +1,13 @@
+BDEPEND=>=dev-lang/go-1.18 app-arch/unzip
+DEFINED_PHASES=unpack
+DESCRIPTION=Name resolution for containers
+EAPI=8
+HOMEPAGE=https://github.com/containers/dnsname
+INHERIT=go-module
+KEYWORDS=amd64
+LICENSE=Apache-2.0
+RESTRICT=strip
+SLOT=0
+SRC_URI=https://github.com/containers/dnsname/archive/v1.3.0.tar.gz -> dnsname-1.3.0.tar.gz
+_eclasses_=go-module	75029f071ebc843223233ab1b0a2d4a5
+_md5_=e8d4c5b760bd56e4eab91bce1801d499
