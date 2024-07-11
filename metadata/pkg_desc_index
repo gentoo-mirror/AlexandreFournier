@@ -20,7 +20,6 @@ net-voip/baresip 3.1.0 3.3.0 3.8.0 3.10.1: Baresip is a portable and modular SIP
 net-voip/re 3.1.0 3.3.0 3.8.0 3.10.0: Generic library for real-time communications with async IO support
 net-wireless/acarsdec 3.4: An open source Acars decoder with rtl_sdr frontend
 net-wireless/airspy-firmware 1.0.0_rc10: AirSpy Firmware
-net-wireless/bully 1.1_p20170926: A wifi-protected-setup (WPS) brute force attack tool, similar to reaver
 net-wireless/dsd 9999: Digital Speech Decoder
 net-wireless/dsdcc 1.8.6: Digital Speech Decoder (DSD) rewritten as a C++ library
 net-wireless/dumpvdl2 1.1.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
