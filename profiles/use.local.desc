@@ -2,9 +2,3 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-net-voip/baresip:aom - av1 module
-net-voip/baresip:codec2 - CODEC2 low-bitrate speech audio codec
-net-voip/baresip:gst - Support for video (media-libs/gstreamer)
-net-voip/baresip:gtk3 - gtk+ user interfac
-net-voip/baresip:pipewire - Enable pipewire audio support
-net-voip/baresip:spandsp - Use media-libs/spandsp for for G.722 and G.726 codec support
