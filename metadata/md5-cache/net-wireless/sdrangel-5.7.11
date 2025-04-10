@@ -11,5 +11,5 @@ LICENSE=GPL-3
 RDEPEND=dev-libs/boost dev-libs/cm256cc dev-libs/serialDV >=dev-qt/qtcore-5.6.0 >=dev-qt/qtwidgets-5.6.0 >=dev-qt/qtwebsockets-5.6.0 >=dev-qt/qtmultimedia-5.6.0[widgets] >=media-libs/codec2-0.9.1 media-libs/opus net-wireless/dsdcc sci-libs/fftw:3.0 virtual/libusb:1 opengl? ( virtual/opengl >=dev-qt/qtopengl-5.6.0 ) media-libs/opencv airspy? ( net-wireless/airspy ) bladerf? ( net-wireless/bladerf ) hackrf? ( net-libs/libhackrf ) plutosdr? ( net-libs/libiio ) limesuite? ( net-wireless/limesuite ) rtlsdr? ( net-wireless/rtl-sdr ) soapy? ( net-wireless/soapysdr )
 SLOT=0
 SRC_URI=https://github.com/f4exb/sdrangel/archive/v5.7.11.tar.gz -> sdrangel-5.7.11.tar.gz
-_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	16d3941ed2dc39f4819368ae51bc0b72	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	c0c9c21d01b8a96d2d736c554daedc57
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	c0c9c21d01b8a96d2d736c554daedc57
 _md5_=dee01b779785b4ee72a8d35258d46d7a
